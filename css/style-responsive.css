@@ -26,6 +26,11 @@
     padding: 5px;
   }
 
+  /* Section title */
+  .section-header {
+    font-size: 2em;
+  }
+
   /* Banner */
   .banner-header-text {
     width: 80%;
@@ -34,6 +39,7 @@
   /* Hero Title */
   .hero-title {
     line-height: normal;
+    font-size: 2.2em;
   }
 
   /* Portfolio */
