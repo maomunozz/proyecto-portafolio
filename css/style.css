@@ -384,6 +384,8 @@ img {
   transition: 0.3s;
 }
 
+/* Projects */
+
 .single-project-info {
   display: grid;
   grid-template-rows: auto 1fr auto; /* Una fila para arriba, dos filas iguales para las columnas en el medio, y una fila para abajo */
